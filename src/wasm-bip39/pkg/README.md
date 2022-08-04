@@ -1,5 +1,7 @@
-<div align="center">
 
+<div align="center">
+  <p>Derived from the tiny-bip39 crate <a href="https://crates.io/crates/"> </p>
+ 
   <h1><code>wasm-pack-template</code></h1>
 
   <strong>A template for kick starting a Rust and WebAssembly project using <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>.</strong>
