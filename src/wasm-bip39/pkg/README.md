@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p>Derived from the <a href="https://crates.io/crates/">tiny-bip39</a> crate </p>
+  <p>Derived from the <a href="https://crates.io/crates/tiny-bip39">tiny-bip39</a> crate </p>
  
   <h1><code>wasm-pack-template</code></h1>
 
